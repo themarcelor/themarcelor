@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 I'm Marcelo, I'm a Site Reliability Engineer.
-Currently based in Chicago, IL 🇺🇸 but I lived in Ireland 🇮🇪 for ~7 years and I'm originally from Brazil 🇧🇷 .
+Currently based in Chicago, IL 🇺🇸  but I lived in Ireland 🇮🇪  for ~7 years (Sláinte! 🍺) and I'm originally from Brazil 🇧🇷 .
 
 I like to [blog](https://themarcelor.github.io/blog/), but not as much as I like Ferrets and Comic Books.
 
@@ -12,7 +12,7 @@ I like to [blog](https://themarcelor.github.io/blog/), but not as much as I like
 - 🔭 I’m currently working on CI/CD Pipeline Engineering for Biological Sciences Systems at the University of Chicago.
 - 🌱 I’m currently learning a lot about software testing.
 - 👯 I’m looking to collaborate on Observability.
-- 🤔 I’m looking for help with the toxicity in the Software Engineering world.
+- 🤔 I’m looking for help with handling the toxicity in the Software Engineering world.
 - 💬 Ask me about Site Reliability Engineering.
 - 🙂 Pronouns: he/him
 - ⚡ Fun fact: A group of ferrets is called "a business".
