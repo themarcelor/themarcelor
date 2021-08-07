@@ -1,19 +1,22 @@
-### Hi there 👋
+### Oi, tudo bem? 👋
 
 I'm Marcelo, I'm a Site Reliability Engineer.
 Currently based in Chicago, IL 🇺🇸  but I lived in Ireland 🇮🇪  for ~7 years (Sláinte! 🍺) and I'm originally from Brazil 🇧🇷 .
 
+🎓 Msc. in Enterprise Application Development at **[LYIT](https://www.lyit.ie/)** (Letterkenny Institute of Technology, Letterkenny, County Donegal, Republic of Ireland).
+
 I like to [blog](https://themarcelor.github.io/blog/), but not as much as I like Ferrets and Comic Books.
 
-![Twitter Follow](https://img.shields.io/twitter/follow/TheMarceloR?style=social)](https://twitter.com/TheMarceloR)
+[![Twitter Follow](https://img.shields.io/twitter/follow/TheMarceloR?style=social)](https://twitter.com/TheMarceloR)
+
+[![StackOverflow](https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=flat-square&logo=Stack-Overflow&logoColor=white)](https://stackoverflow.com/users/1677299/the-marcelo-r) [![ORCID](https://img.shields.io/badge/ORCID-0000--0003--3292--0779-green?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0000-0003-3292-0779)
+
+[![OS](https://img.shields.io/badge/OS-macOS-informational?style=flat-square&logo=apple&logoColor=white)](https://en.wikipedia.org/wiki/MacOS)
+[![OS](https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&logoColor=white)](https://en.wikipedia.org/wiki/Linux)
+
+![Editor Emacs](https://img.shields.io/badge/My%20Editor-Emacs-purple?style=flat-square&logo=GNU%20Emacs&logoColor=white) [![My Pet](https://img.shields.io/badge/My%20pet-Ferret-blue)](https://en.wikipedia.org/wiki/Ferret)
 
 ![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)
-
-![ORCID](https://img.shields.io/badge/ORCID-0000-0003-3292-0779-blue?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0000-0003-3292-0779)
-
-![OS](https://img.shields.io/badge/OS-macOS-informational?style=flat-square&logo=apple&logoColor=white)](https://en.wikipedia.org/wiki/MacOS)
-![OS](https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&logoColor=white)](https://en.wikipedia.org/wiki/Linux)
-![Editor Emacs](https://img.shields.io/badge/Supports-Emacs_26.1_--_27.x-blueviolet.svg?style=flat-square&logo=GNU%20Emacs&logoColor=white)
 
 ## Other stuff
 
@@ -23,7 +26,7 @@ I like to [blog](https://themarcelor.github.io/blog/), but not as much as I like
 - 🤔 I’m looking for help with handling the toxicity in the Software Engineering world.
 - 💬 Ask me about Site Reliability Engineering.
 - 🙂 Pronouns: he/him
-- ⚡ Fun fact: A group of ferrets is called "a business".
+- 🕵️ Fun fact: A group of ferrets is called "a business".
 
 ## ⚡ Technologies
 
