@@ -5,14 +5,14 @@ Currently based in Chicago, IL 🇺🇸  but I lived in Ireland 🇮🇪  for ~7
 
 I like to [blog](https://themarcelor.github.io/blog/), but not as much as I like Ferrets and Comic Books.
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/TheMarceloR?style=social)](https://twitter.com/TheMarceloR)
+![Twitter Follow](https://img.shields.io/twitter/follow/TheMarceloR?style=social)](https://twitter.com/TheMarceloR)
 
-[![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)
+![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)
 
-[![ORCID](https://img.shields.io/badge/ORCID-0000-0003-3292-0779-blue?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0000-0003-3292-0779)
+![ORCID](https://img.shields.io/badge/ORCID-0000-0003-3292-0779-blue?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0000-0003-3292-0779)
 
-[![OS](https://img.shields.io/badge/OS-macOS-informational?style=flat-square&logo=apple&logoColor=white)](https://en.wikipedia.org/wiki/MacOS)
-[![OS](https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&logoColor=white)](https://en.wikipedia.org/wiki/Linux)
+![OS](https://img.shields.io/badge/OS-macOS-informational?style=flat-square&logo=apple&logoColor=white)](https://en.wikipedia.org/wiki/MacOS)
+![OS](https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&logoColor=white)](https://en.wikipedia.org/wiki/Linux)
 ![Editor Emacs](https://img.shields.io/badge/Supports-Emacs_26.1_--_27.x-blueviolet.svg?style=flat-square&logo=GNU%20Emacs&logoColor=white)
 
 ## Other stuff
