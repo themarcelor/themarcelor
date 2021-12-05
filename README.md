@@ -20,13 +20,16 @@ I like to [blog](https://themarcelor.github.io/blog/), but not as much as I like
 
 ## Other stuff
 
-- 🔭 I’m currently working on CI/CD Pipeline Engineering for Biological Sciences Systems at the University of Chicago.
-- 🌱 I’m currently learning a lot about software testing.
+- 🔭 I’m currently working as a Site Reliability Engineer at Fetch Rewards 🧾🧾🧾.
+- 🔬 Previously, I was the Tech Lead of CI/CD Pipeline Engineering at the University of Chicago (working with Biological Sciences Systems).
+- 🐦 I used to work at the TCC (Twitter Command Center) as an IMOC (Incident Manager On-Call) 🐣.
+- 🐝 I have also worked at IBM as a Tech Lead of a Cloud Deployment Automation team (converting, packaging and integrating on-prem applications).
+- 🌱 I’m currently learning a lot about Multi-Region / Distributed architectures.
 - 👯 I’m looking to collaborate on Observability.
-- 🤔 I’m looking for help with handling the toxicity in the Software Engineering world.
-- 💬 Ask me about Site Reliability Engineering.
+- 🤔 I’m looking for help with improving the literature around toxicity in the Software Engineering world.
+- 💬 Ask me about Ferrets and Site Reliability Engineering.
 - 🙂 Pronouns: he/him
-- 🕵️ Fun fact: A group of ferrets is called "a business".
+- 🕵️  Fun fact: A group of ferrets is called "a business".
 
 ## ⚡ Technologies
 
