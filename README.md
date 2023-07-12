@@ -9,7 +9,9 @@ I like to [blog](https://themarcelor.github.io/blog/), but not as much as I like
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/TheMarceloR?style=social)](https://twitter.com/TheMarceloR)
 
-[![StackOverflow](https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=flat-square&logo=Stack-Overflow&logoColor=white)](https://stackoverflow.com/users/1677299/the-marcelo-r) [![ORCID](https://img.shields.io/badge/ORCID-0000--0003--3292--0779-green?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0000-0003-3292-0779)
+<a href="https://stackexchange.com/users/1850694"><img src="https://stackexchange.com/users/flair/1850694.png" width="208" height="58" alt="profile for the_marcelo_r on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for the_marcelo_r on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
+
+[![ORCID](https://img.shields.io/badge/ORCID-0000--0003--3292--0779-green?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0000-0003-3292-0779)
 
 [![OS](https://img.shields.io/badge/OS-macOS-informational?style=flat-square&logo=apple&logoColor=white)](https://en.wikipedia.org/wiki/MacOS)
 [![OS](https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&logoColor=white)](https://en.wikipedia.org/wiki/Linux)
