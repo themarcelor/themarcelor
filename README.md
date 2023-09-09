@@ -7,7 +7,7 @@ Currently based in Chicago, IL 🇺🇸  but I lived in Ireland 🇮🇪  for ~7
 
 I like to [blog](https://themarcelor.github.io/blog/), but not as much as I like Ferrets and Comic Books.
 
-[![Generic badge](https://img.shields.io/badge/BlueSky-themarcelor.bsky.social-blue.svg)]([https://shields.io/](https://bsky.app/profile/themarcelor.bsky.social))
+[![Generic badge](https://img.shields.io/badge/BlueSky-themarcelor.bsky.social-blue.svg)](https://bsky.app/profile/themarcelor.bsky.social)
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/TheMarceloR?style=social)](https://twitter.com/TheMarceloR)
 
