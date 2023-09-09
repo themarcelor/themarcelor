@@ -7,6 +7,8 @@ Currently based in Chicago, IL 🇺🇸  but I lived in Ireland 🇮🇪  for ~7
 
 I like to [blog](https://themarcelor.github.io/blog/), but not as much as I like Ferrets and Comic Books.
 
+[![Generic badge](https://img.shields.io/badge/BlueSky-themarcelor.bsky.social-blue.svg)]([https://shields.io/](https://bsky.app/profile/themarcelor.bsky.social))
+
 [![Twitter Follow](https://img.shields.io/twitter/follow/TheMarceloR?style=social)](https://twitter.com/TheMarceloR)
 
 <a href="https://stackexchange.com/users/1850694"><img src="https://stackexchange.com/users/flair/1850694.png" width="208" height="58" alt="profile for the_marcelo_r on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for the_marcelo_r on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
